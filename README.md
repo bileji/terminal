@@ -10,3 +10,6 @@
   
     2. 安装插件(vim中输入)
     :BundleInstall
+## tmux配置
+    1. 安装tmux
+    brew install tmux
